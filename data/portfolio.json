@@ -1,0 +1,23 @@
+[
+    {
+        "image": "image1 (1).webp",
+        "title": "Booki",
+        "text": "Réalisation de la page d'accueil d'une agence de voyage en respectant une maquette fournie. Ce projet m'a permis de travailler l'intégration HTML/CSS, la mise en page responsive et le respect des bonnes pratiques d'accessibilité.",
+        "link": "https://github.com/J73M/Projet.Booki",
+        "alt": "Logo Booki"
+    },
+    {
+        "image": "image3.webp",
+        "title": "Kasa",
+        "text": "Développement d'un site web de location immobilière avec React. J'ai mis en place des composants dynamiques (collapses, galerie d'images, routing) et structuré l'application en respectant une architecture claire et maintenable.",
+        "link": "https://github.com/J73M/Projet.8/tree/main/projet.8",
+        "alt": "Logo Kasa"
+    },
+    {
+        "image": "sophie-bluel.webp",
+        "title": "Portfolio Architecte",
+        "text": "Création d'un site vitrine présentant les réalisations d'un architecte d'intérieur. Le projet comprend l'intégration des maquettes, la gestion dynamique des projets ainsi que l'optimisation de l'interface utilisateur.",
+        "link": "https://github.com/J73M/Projet.7",
+        "alt": "Photo Sophie Bluel"
+    }
+]

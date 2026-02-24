@@ -1,0 +1,23 @@
+[
+    {
+        "image": "image1 (1).webp",
+        "title": "Booki",
+        "text": "Creation of the homepage for a travel agency following a provided mockup. This project allowed me to work on HTML/CSS integration, responsive layout and accessibility best practices.",
+        "link": "https://github.com/J73M/Projet.Booki",
+        "alt": "Booki logo"
+    },
+    {
+        "image": "image3.webp",
+        "title": "Kasa",
+        "text": "Development of a real estate rental website with React. I implemented dynamic components (collapses, image gallery, routing) and structured the application following a clear and maintainable architecture.",
+        "link": "https://github.com/J73M/Projet.8/tree/main/projet.8",
+        "alt": "Kasa logo"
+    },
+    {
+        "image": "sophie-bluel.webp",
+        "title": "Architect Portfolio",
+        "text": "Creation of a showcase website presenting the work of an interior architect. The project includes mockup integration, dynamic project management and user interface optimization.",
+        "link": "https://github.com/J73M/Projet.7",
+        "alt": "Sophie Bluel photo"
+    }
+]

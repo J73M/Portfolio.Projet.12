@@ -1,0 +1,38 @@
+[
+    {
+        "image": "html-css (1).webp",
+        "title": "HTML - CSS",
+        "alt": "Image HTML CSS",
+        "text": "Je maîtrise les bases du HTML et du CSS, notamment la structuration d'une page web, la mise en place de sections cohérentes et l'intégration d'éléments interactifs comme des liens ou une navigation. Je sais créer des mises en page responsives, personnaliser le style visuel avec des effets (ombres, fonds, hover) et adapter l'affichage pour différents formats d'écran."
+    },
+    {
+        "image": "js (1).webp",
+        "title": "Javascript",
+        "alt": "Image Javascript",
+        "text": "Maîtrise des bases du langage JavaScript, y compris la manipulation du DOM, la gestion des événements et les fonctions. Je sais créer des interactions dynamiques sur une page web et travailler avec des tableaux et objets pour gérer les données côté client."
+    },
+    {
+        "image": "react (1).webp",
+        "title": "React",
+        "alt": "Image React",
+        "text": "Je suis capable de créer des interfaces interactives avec React, en utilisant les composants fonctionnels, les props et le state. Je sais gérer le rendu dynamique, organiser l'architecture d'une application et utiliser des bibliothèques complémentaires pour améliorer l'expérience utilisateur."
+    },
+    {
+        "image": "gestion-de-projet.webp",
+        "title": "Gestion de projet",
+        "alt": "Image Gestion de projet",
+        "text": "Je sais organiser et suivre un projet de développement, définir les tâches, prioriser les fonctionnalités et respecter les délais. Je maîtrise les outils de suivi comme Git, GitHub et les tableaux de projet, et je peux collaborer efficacement avec une équipe pour livrer des projets de qualité."
+    },
+    {
+        "image": "optimisation-et-debug.webp",
+        "title": "Optimisation et debug",
+        "alt": "Image Optimisation et debug",
+        "text": "Je sais identifier et corriger les bugs dans le code, améliorer les performances des applications et optimiser l'expérience utilisateur. J'utilise des outils de debug et des bonnes pratiques pour assurer un code propre, efficace et fiable."
+    },
+    {
+        "image": "test.webp",
+        "title": "Test",
+        "alt": "Image Test",
+        "text": "Je sais réalisé des tests fonctionnels et automatisés afin de garantir la qualité et la fiabilité des applications. Je conçois des scénarios de test complets, identifie et documente les anomalies, et vérifie que le produit respecte toutes les exigences spécifiées. J'analyse également les résultats pour proposer des améliorations."
+    }
+]

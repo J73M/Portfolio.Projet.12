@@ -1,0 +1,229 @@
+/******* GENERAL *******/
+#about,
+#skills,
+#portfolio,
+#contact {
+    margin-top: 4rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+/* Fond global avec image */
+html, body {
+    margin: 0;
+    padding: 0;
+    background: url("images/Billelis_Carpe_Noctem_Statue_2.webp") no-repeat center top fixed;
+    background-size: cover;
+}
+
+h1, h2, h3 {
+    color: #ffe169;
+    margin: 0;
+    padding: 0;
+}
+
+p, li {
+    color: #ffe169;
+}
+
+/* Navbar */
+.navbar {
+    background-color: rgba(29,29,29,0.95);
+}
+.navbar.navbar-dark .navbar-nav .nav-link {
+    color: #ffe169;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    text-decoration: underline;
+    border-color: #ffd000;
+    color: #ffd000;
+}
+
+.lang-switcher {
+    font-size: 1.5rem;
+    display: flex;
+    gap: 0.5rem;
+    cursor: pointer;
+}
+
+.lang-switcher a {
+    text-decoration: none;
+    opacity: 0.5;
+    color: #ffe169;
+}
+
+.lang-switcher a:hover {
+    opacity: 1;
+    color: #ffd000;
+}
+
+.lang-switcher span {
+    opacity: 1;
+}
+
+/* hero */
+.hero_card {
+    background-color: rgba(29,29,29,0.95);
+    padding: 1.5rem 2.5rem;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    display: block;
+    margin-top: 80vh;
+    text-align: center;
+}
+
+.hero_title {
+    font-size: 4.5rem;
+}
+
+.hero_desc {
+    font-size: 2rem;
+}
+
+/* Cards génériques */
+section .card {
+    background-color: rgba(29,29,29,0.95);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    border: none;
+    color: #ffe169;
+}
+
+/* Cards de titre de section */
+.section-title-card {
+    background-color: rgba(29,29,29,0.95);
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    border: none;
+    color: #ffe169;
+}
+
+/* about */
+.imageAboutPage {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    object-fit: cover;
+    object-position: center 40%;
+    display: block;
+    margin: 0 auto;
+}
+
+/* skills */
+.skillsText.card {
+    height: 100%;
+    cursor: pointer;
+    border: 1px solid transparent;
+}
+.skillsText img {
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+}
+#skills p {
+    text-align: center;
+}
+.skillsIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+    color: #ffe169;
+}
+.card-title {
+    text-align: center;
+    color: #ffe169;
+}
+
+.skillsText:hover {
+    border: 1px solid #ffe169;
+}
+
+.training-desc{
+    margin-top: 2rem;
+    background-color: rgba(29,29,29,0.95);
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    border: none;
+}
+
+/* portfolio */
+#portfolio p {
+    text-align: center;
+}
+
+.portfolioContent .card-img-top {
+    height: 130px;
+    object-fit: cover;
+}
+
+.portfolioContent .btn {
+    background-color: #ffe169;
+    border-color: #ffe169;
+    color: #1d1d1d;
+}
+
+.portfolioContent.card {
+    height: 100%;
+}
+
+.portfolioContent .btn:focus,
+.portfolioContent .btn-success:focus {
+    box-shadow: 0 0 0 0.25rem rgba(255, 225, 105, 0.5);
+    outline: none;
+}
+
+.portfolioContent .btn:focus {
+    box-shadow: 0 0 0 0.25rem rgba(255, 225, 105, 0.5);
+    outline: none;
+}
+
+/* contact */
+.contactColumn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contactColumn i {
+    color: #ffe169;
+}
+
+#contact a {
+    color: #ffe169;
+    text-decoration: none;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+    border-color: #ffd000;
+    color: #ffd000;
+}
+
+/* Footer */
+footer {
+    text-align: right;
+    padding: 0.5rem 1rem;
+}
+
+footer p {
+    font-size: 0.75rem;
+    color: rgba(255, 225, 105, 0.4);
+    background-color: rgba(29,29,29,0.95);
+    display: inline;
+}
+
+footer a {
+    color: rgba(255, 225, 105, 0.4);
+    text-decoration: none;
+    background-color: rgba(29,29,29,0.95);
+}
+
+footer a:hover {
+    text-decoration: underline;
+    border-color: #ffd000;
+    color: #ffd000;
+}

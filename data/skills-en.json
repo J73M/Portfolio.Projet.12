@@ -1,0 +1,38 @@
+[
+    {
+        "image": "html-css (1).webp",
+        "title": "HTML - CSS",
+        "alt": "HTML CSS image",
+        "text": "I have mastered the basics of HTML and CSS, including structuring a web page, setting up coherent sections and integrating interactive elements such as links or navigation. I can create responsive layouts, customize the visual style with effects (shadows, backgrounds, hover) and adapt the display for different screen formats."
+    },
+    {
+        "image": "js (1).webp",
+        "title": "Javascript",
+        "alt": "Javascript image",
+        "text": "I have mastered the basics of JavaScript, including DOM manipulation, event handling and functions. I can create dynamic interactions on a web page and work with arrays and objects to manage client-side data."
+    },
+    {
+        "image": "react (1).webp",
+        "title": "React",
+        "alt": "React image",
+        "text": "I am able to create interactive interfaces with React, using functional components, props and state. I can manage dynamic rendering, organize the architecture of an application and use complementary libraries to improve the user experience."
+    },
+    {
+        "image": "gestion-de-projet.webp",
+        "title": "Project management",
+        "alt": "Project management image",
+        "text": "I can organize and track a development project, define tasks, prioritize features and meet deadlines. I am proficient with tracking tools such as Git, GitHub and project boards, and I can collaborate effectively with a team to deliver quality projects."
+    },
+    {
+        "image": "optimisation-et-debug.webp",
+        "title": "Optimization and debugging",
+        "alt": "Optimization and debugging image",
+        "text": "I can identify and fix bugs in code, improve application performance and optimize the user experience. I use debugging tools and best practices to ensure clean, efficient and reliable code."
+    },
+    {
+        "image": "test.webp",
+        "title": "Testing",
+        "alt": "Testing image",
+        "text": "I can perform functional and automated tests to ensure the quality and reliability of applications. I design comprehensive test scenarios, identify and document anomalies, and verify that the product meets all specified requirements. I also analyze results to suggest improvements."
+    }
+]
